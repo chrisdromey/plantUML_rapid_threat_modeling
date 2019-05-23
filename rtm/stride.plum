@@ -1,0 +1,46 @@
+@startuml
+
+sprite $S [45x43/16z] {
+lPK5WiGm24MNZzMv_sd7fwGRrkMDjdqGJrx-5G90dn4XvgQgvYPuNsLJ0Ts1gF4xgYke1UflwPfgeskbaWbLY57XCjLmRwTRsAzS5KeWnqZHWykQUUQuCYib
+ogtie0SMJwQKuMLYZeX1M8VhRvtQziHZX3oZjfIHRKJMRuc5xamHI5lnb2MxOetrsGNJn2cBjBN8V6DULVLmsj6ui0pQ1VW-qlGaksxres-KxKlWyyDNQb2a
+V4Jk0LpBFRZeGo4tTRPCXuYvg7FJ6ngnNnnbx_iP4IlskA7jvs84nujzlO97X1GZsBOGQrpOjkowR5y_tXWY-jaFEypd16A3ArEBShLIQk3b6gnHhbPtZUZd
+zmsnUaUgNVhHNlVsBlhZ_RdU-NzufjIdrRzo1W
+}
+
+sprite $T [44x42/16z] {
+lPLL0iGW34JBP9BrvVwdNTTGfFegNm-7eLkF020qUA2gaey_YgOO1M-49YKJ_sHj4Ybatu1Kq0Sr9Ae9-X7piWfoYBg-UZNVPo5Uo3ylMNvSmujj_0TFBAas
+xrBIQi7DdLsCvyq3-8f1F_8O3_Y3y9EGTuKlLr5reSFTqEG6FxIyIopb3kdlGdCsQDs6xuVEggwv_Pjn_S6mYcl-lEMXkCp9Gmx8Xq6vusLbDi-6v-Jm_Ctd
+-h3xOlWzD9mh
+}
+
+sprite $R [43x42/16z] {
+lPLdOe8n34Fh8MQextzQDWf3f6M-Fwn7FjbPFz_2Tln32o1t037K0nbk1pmISKzqd3pQS6bcKknofWY9C4N0HkROfQdSovmqbPldjQSTQISMqwIRtbMmzZfZ
+nZw0PeHrTJNRCMzLDMM4E1-Kwi8EeAhT36jfGhLb5OT8u_ELEgVQ4y2bscfbrmbWGetvhWK4FMfNg-seufyOzbObaAhkAuIgofhmxK3bstQkYWx8PXd-wEll
+JLyZxasidOWOhe55LVQeevLbirwNGwnNJORO1HA7s5kQz0TtxEFdmFXqUVpCUlmarEThmXyujH-u2nwyOHvd0m
+}
+
+sprite $I [43x44/16z] {
+rTLL6iCm30FW6CPq_zEEIMsZBnhFptyujikVXvcrA8-CGsGuzNu7p2ETG9p8QZZE474CoU49l6_JgziYSx9vKNAB0yVB9OwyFs_2sIURJG2rn4cHrawIHYXC
+Qr48XTsw4ueaZ51SE0kZO8BIUsDDrDv3XRqADo3Sg_1QmXyGVrO_Arasfmq1cBHnsZ0XOwKwe5SNNhFaIeXX0_NLXAejz0Anm-Yn0m
+}
+
+sprite $D [44x43/16z] {
+lPL7Wi9030JNhKZ-_sl98B5kSgWBsAx98-dlXmm0XWSyM6IuUsGORfgQhe83efvwrPHqGKSyXQjUPhETBIWC38jXfAQ2e_bVZgFAvBXKtN0TywwAdzOoFp3B
+lb2NvkRfWwwA6agoL7MKEvzicIstSbJ7shijDx4djxAEEuPZx29MgsbrZADhobnifr7ZsT4DeMwsvKaStGHrlQykJpU1kxPQJN0YXbfQSzb_EChb_GPr-Tgy
+kJLVlcTeywNxK5EOrOUyjRzwUNk2djlKjyHqrNSCPkm-54s5Wzsp8ukfef0az_SAhYGkE98itZWkpyVny_dXTjvv8vzTpvDlv5-UryrJtweNl0xzZWq
+}
+
+sprite $E [43x43/16z] {
+pTL7OiKm28JXQ0Q6zDp_j6bkmftT-zUVkuMU7h06e5qpc49_XGndq4963D4KTWGPJlJHWxlIHQoZVETPvDZBrTOo3FjPhAoIp5P9kkCuzqvI68htBc5CN6WG
+GozVNSyOOypI70jzdHEcdFr9PufSFYs42mfXe6QNr6oWuYMb1XhegQOCNJ5-_KJdtj2bbfxgb6A7OgywRRTeIs_WZ4RvlUQl5PhozBLs_e6br_HKGy4BoaZ_
+wrdEj0fEOgIrTPPOMB6rEL2VBkSpgpu9w_Drndbgix0Nb7UOUZy
+}
+
+!define STRIDE_S <color:blue><$S></color>
+!define STRIDE_T <color:green><$T></color>
+!define STRIDE_R <color:orange><$R></color>
+!define STRIDE_I <color:DarkGoldenRod><$I></color>
+!define STRIDE_D <color:red><$D></color>
+!define STRIDE_E <color:purple><$E></color>
+
+@enduml
